@@ -1,6 +1,6 @@
 # Udacity-programming-for-Data-Science-With-Python-Nanodegree
 
-#SQL Project
+# SQL - Project
 
 In this project, the focus was on exploring a movie rentals database. The student's tasks involved running SQL queries and creating visualizations to display the query results.
 
