@@ -24,3 +24,18 @@ The main features of the program include:
 
 The goal of this project is to provide a user-friendly tool for exploring bikeshare data and gaining valuable insights into bike usage patterns in different cities.
 
+
+## Dependencies
+
+Before running the bikeshare program, make sure you have the following dependencies installed:
+
+- Python (version 3.x)
+- Pandas (version 1.x)
+- NumPy (version 1.x)
+- Matplotlib (version 3.x)
+
+You can install these dependencies using pip:
+
+```bash
+pip install pandas numpy matplotlib
+
