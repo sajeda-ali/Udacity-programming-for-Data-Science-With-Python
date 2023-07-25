@@ -32,7 +32,6 @@ Before running the bikeshare program, make sure you have the following dependenc
 - Python (version 3.x)
 - Pandas (version 1.x)
 - NumPy (version 1.x)
-- Matplotlib (version 3.x)
 
 You can install these dependencies using pip:
 
