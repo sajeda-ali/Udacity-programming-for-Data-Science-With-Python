@@ -1,4 +1,12 @@
 # Udacity-programming-for-Data-Science-With-Python-Nanodegree
+
+#SQL Project
+
+In this project, the focus was on exploring a movie rentals database. The student's tasks involved running SQL queries and creating visualizations to display the query results.
+
+For the presentation, the student had to prepare four slides, each with a specific question of interest. Each slide needed to include the question, the corresponding SQL query, a visualization using the query data, and a brief summary of the findings.
+
+
 # Bikeshare Data Analysis
 
 This project is a Python program that analyzes bikeshare data from three cities: Chicago, New York City, and Washington.
