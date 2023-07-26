@@ -1,31 +1,27 @@
-# Udacity-programming-for-Data-Science-With-Python-Nanodegree
+**Date created:** July 22, 2023
 
 # Bikeshare Data Analysis
 
-This project is a Python program that analyzes bikeshare data from three cities: Chicago, New York City, and Washington.
+**Description:**
 
-## Introduction
+Bikeshare Data Analysis is a Python program that analyzes bikeshare data from three major cities: Chicago, New York City, and Washington. The program allows users to explore and gain insights from the bikeshare data, providing various statistics and visualizations to understand bike usage patterns in each city.
 
-Bikeshare Data Analysis is a command-line program that allows users to explore and gain insights from bikeshare data in three major cities in the United States. The program provides various statistics and visualizations, helping users understand the patterns and trends related to bike usage.
+**Files used:**
 
-The main features of the program include:
-- Filtering data by city, month, and day of the week to narrow down the analysis scope.
-- Displaying popular times of travel, most frequently used stations, and common trip combinations.
-- Calculating trip duration statistics, such as total travel time and average trip duration.
-- Providing user information, including user types and gender breakdown (if available).
-- Allowing users to view raw data to explore individual trip details.
+- `bikeshare.py`: The Python script that contains the main program logic for data analysis.
+- `chicago.csv`: Data file containing bikeshare data for the city of Chicago.
+- `new_york_city.csv`: Data file containing bikeshare data for New York City.
+- `washington.csv`: Data file containing bikeshare data for Washington.
 
-The goal of this project is to provide a user-friendly tool for exploring bikeshare data and gaining valuable insights into bike usage patterns in different cities.
+**Credits:**
 
+The structure and initial version of the `bikeshare.py` script were inspired by the Udacity Programming for Data Science with Python Nanodegree Program.
 
-## Dependencies
+Links to helpful resources:
+- [Udacity Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+- [Python Documentation](https://docs.python.org/3/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Stack Overflow](https://stackoverflow.com/)
 
-Before running the bikeshare program, make sure you have the following dependencies installed:
-
-- Python (version 3.7)
-- Pandas (version 2.0)
-- NumPy (version 1.24)
-
-You can install these dependencies using pip:
-
-
+*Note: This project is part of the Udacity Nanodegree Program, and the code is adapted from the provided template and exercises for educational purposes.*
