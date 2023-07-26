@@ -24,4 +24,3 @@ Links to helpful resources:
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Stack Overflow](https://stackoverflow.com/)
 
-*Note: This project is part of the Udacity Nanodegree Program, and the code is adapted from the provided template and exercises for educational purposes.*
