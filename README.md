@@ -22,9 +22,9 @@ The goal of this project is to provide a user-friendly tool for exploring bikesh
 
 Before running the bikeshare program, make sure you have the following dependencies installed:
 
-- Python (version 3.x)
-- Pandas (version 1.x)
-- NumPy (version 1.x)
+- Python (version 3.7)
+- Pandas (version 2.0)
+- NumPy (version 1.24)
 
 You can install these dependencies using pip:
 
