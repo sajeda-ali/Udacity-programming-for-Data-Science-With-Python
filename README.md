@@ -28,6 +28,4 @@ Before running the bikeshare program, make sure you have the following dependenc
 
 You can install these dependencies using pip:
 
-```bash
-pip install pandas numpy matplotlib
 
