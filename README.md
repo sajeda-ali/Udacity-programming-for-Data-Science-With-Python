@@ -19,10 +19,9 @@ The structure and initial version of the `bikeshare.py` script were inspired by 
 
 Links to helpful resources:
 - [Udacity Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
-- [Python Documentation](https://docs.python.org/3/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NumPy Documentation](https://numpy.org/doc/)
-- [Stack Overflow](https://stackoverflow.com/)
+
 
 ## Dependencies
 
