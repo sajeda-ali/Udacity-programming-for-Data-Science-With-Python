@@ -24,3 +24,11 @@ Links to helpful resources:
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Stack Overflow](https://stackoverflow.com/)
 
+## Dependencies
+
+Before running the bikeshare program, make sure you have the following dependencies installed:
+
+- Python (version 3.11)
+- Pandas (version 2.0.3)
+- NumPy (version 1.9)
+
